@@ -1,2 +1,2 @@
-# sod.github.io
-SOD设计博客
+# SODesign
+SoDesign 个人博客
