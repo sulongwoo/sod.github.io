@@ -1,4 +1,4 @@
-# sod.github.io ｜ # 首页 ｜ 
+# sod.github.io
 SoDesign 个人博客
 
 开心的一天
